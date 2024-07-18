@@ -37,10 +37,12 @@ variable "department" {
 
 variable "resource_group_name" {
   type = string
-  description = "laeli-rg-dev"
+  description = "Resource Group Name"
+  default = "ResourceGroupName"
 }
 
 variable "company_division" {
   type = string
-  description = "xyz"
+  description = "Company division"
+  default = "xyz"
 }
