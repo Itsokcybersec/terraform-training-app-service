@@ -1,23 +1,16 @@
 ---
-page_type: sample
-name: "HTML sample for Azure App Service"
-description: "This is a simple HTML/CSS/JS web app that you can deploy to Azure App Service using Git."
+topic: HTML Hello World
 languages:
-- javascript
-- html
+  - HTML
 products:
-- azure
-- azure-app-service
+  - Azure App Service
+  - Azure Web Apps
 ---
 
-# HTML sample for Azure App Service
+# HTML Hello World
 
-This is a simple HTML/CSS/JS web app that can be deployed to Azure App Service using Git. 
+This sample demonstrates a tiny Hello World HTML app for [App Service](https://docs.microsoft.com/azure/app-service).
 
-It is built on the [Carousel template](http://getbootstrap.com/examples/carousel) by [Bootstrap](http://getbootstrap.com).
+# Contributing
 
-To learn how to deploy this starter web app to App Service in a few minutes, go to [Deploy your first web app to Azure in 5 minutes](https://azure.microsoft.com/documentation/articles/app-service-web-get-started).
-
-## License
-
-See [LICENSE](LICENSE).
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
